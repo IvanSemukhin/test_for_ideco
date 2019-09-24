@@ -1,0 +1,33 @@
+{
+	"news": [
+		{
+			"id": 1,
+			"title": "Correct Games in new year.",
+			"date": "2019-01-01T20:56:35",
+			"body": "WOW, Poker, etc.",
+			"deleted": false
+		},
+		{
+			"id": 2,
+			"title": "День ВДВ!",
+			"date": "2018-08-02T00:00:00",
+			"body": "Разломали весь фонтан.",
+			"deleted": true
+		},
+		{
+			"id": 3,
+			"title": "EXPO 2020!",
+			"date": "2020-05-01T21:00:00",
+			"body": "Скорее всего попил.",
+			"deleted": false
+		},
+		{
+			"id": 4,
+			"title": "IT Industry.",
+			"date": "2014-07-13T21:00:00",
+			"body": "SAS Crash!",
+			"deleted": false
+		}
+	],
+	"news_count": 4
+}

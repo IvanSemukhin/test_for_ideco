@@ -1,0 +1,68 @@
+{
+	"comments": [
+		{
+			"id": 1,
+			"news_id": 1,
+			"title": "comment_1",
+			"date": "2019-01-02T21:58:25",
+			"comment": "Comment1"
+		},
+		{
+			"id": 2,
+			"news_id": 1,
+			"title": "comment_2",
+			"date": "2019-01-02T22:00:05",
+			"comment": "Comment2"
+		},
+		{
+			"id": 3,
+			"news_id": 1,
+			"title": "comment_3",
+			"date": "2019-01-02T22:10:13",
+			"comment": "Comment3"
+		},
+		{
+			"id": 4,
+			"news_id": 1,
+			"title": "comment_4",
+			"date": "2019-01-02T22:15:53",
+			"comment": "Comment4"
+		},
+		{
+			"id": 5,
+			"news_id": 2,
+			"title": "comment_1",
+			"date": "2018-08-02T02:15:53",
+			"comment": "Comment1"
+		},
+		{
+			"id": 6,
+			"news_id": 2,
+			"title": "comment_2",
+			"date": "2018-08-02T03:25:03",
+			"comment": "Comment2"
+		},
+		{
+			"id": 7,
+			"news_id": 2,
+			"title": "comment_3",
+			"date": "2018-08-02T03:25:03",
+			"comment": "Comment3"
+		},
+		{
+			"id": 8,
+			"news_id": 3,
+			"title": "comment_1",
+			"date": "2020-05-01T21:05:00",
+			"comment": "Comment1"
+		},
+		{
+			"id": 9,
+			"news_id": 4,
+			"title": "comment_1",
+			"date": "2014-08-02T21:00:01",
+			"comment": "Comment1"
+		}
+	],
+	"comments_count": 8
+}
